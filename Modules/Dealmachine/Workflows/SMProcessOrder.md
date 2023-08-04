@@ -1,2 +1,3 @@
 # Leírás
-
+Az SMProcessOrder workflowt a [getPortfolioData()](../API/Spec/getPortfolioData.md) api indítja el.
+A workflow....
