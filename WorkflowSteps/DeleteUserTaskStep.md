@@ -18,8 +18,8 @@ pre:
 UserTask.allInstances()
 ->select(
     ut : Usertask |
-    entityId = entityKey and
-    entityType = entityType
+    ut.entityId = entityKey and
+    ut.entityType = entityType
 ).size() = 1
 ```
 
@@ -35,8 +35,8 @@ inv: asd
 def: UT : Usertask = UserTask.allInstances()
 ->select(
     ut : Usertask |
-    entityId = entityKey and
-    entityType = entityType
+    ut.entityId = entityKey and
+    ut.entityType = entityType
 )
 ->first()
 ```
