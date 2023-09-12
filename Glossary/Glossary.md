@@ -1,0 +1,5 @@
+| Fogalom | Leírás                                                                                                                                                 |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| context | A context egy adott workflow futásidőben létező környezete. <br/>A context az adott workflow indulásával keletkezik a workflow definíció betöltésével. |
+| pset    | ???                                                                                                                                                    |
+|         |                                                                                                                                                        |

@@ -5,8 +5,8 @@ ahhoz usertask tartozik, azt törli.
 # Paraméterek
 
 - ***in***:
-  - entityKey : String [1]
-  - entityType : String [1]
+  - **entityKey : String [1]**
+  - **entityType : String [1]**
 
 - ***return***:
   - nincs
